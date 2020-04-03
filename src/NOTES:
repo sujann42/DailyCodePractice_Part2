@@ -1,0 +1,32 @@
+1) git branch branch_name: creates a new branch with a branch name "branch_name"
+2) git checkout branch_name: checks out the branch "branch_name"
+3) git checkout -b branch_name : creates and checks out a branch name "branch_name"
+4) git branch: shows all local branches
+5) git branch -r: shows all remote branches
+6) git add -A: adds all files to git
+7) git commit -m"": commits all changes to the local
+8) git push: pushes code to the git repo
+9) git pull: pull all changes from remote to local
+10) git clone:clones a project to local
+11) git status: shows the status and which braches you are working on.
+
+
+
+STEPS TO MERGE CODE:
+1) git checkout b_name check out the  branch and work on that branch.
+2) git status
+3) git add -A
+4) git status -- will dispaly all changes
+5) git commit -m "message on what you did"
+6) git branch -- to make sure you are on the right branch
+7) Now Creating Pull Request:
+    - Go to master branch --git checkout master
+    - Pull all changes  --git pull
+8) git checkout the branch --git checkout b_name
+9) git merge master -- takes all the changes and updates to master and merges them back to the branch
+10) git status
+11) git commit
+12) git push
+13) copy and paste the suggested command which is to the branch that you were working.
+14) Go to github and refresh
+15) If you check the branches both the branches gonna have separate codes and the branch is not merged to the master yet.
