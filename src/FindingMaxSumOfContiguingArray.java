@@ -1,5 +1,5 @@
 
-public class TestInherit {
+public class FindingMaxSumOfContiguingArray {
     public static int testMaxSumConiguousArray(int[] nums) {
         int result_max = nums[0];
         int temp_max = nums[0];
