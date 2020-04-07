@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f7575be-0c66-4c00-a2bd-ac30c1ac8ece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindingMaxSumOfContiguingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCodePracticePart2/TestInherit.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1ZzVq9eup33FUIQwlcMJoQSCiBa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,37 +43,43 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="play.paths.configuration" />
   </component>
-  <component name="RunManager" selected="Application.FindingMaxSumOfContiguingArray">
-    <configuration name="AddDigitsTillOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddDigitsTillOne" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.sample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnagramsClarification">
+    <configuration name="AnagramsClarification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramsClarification" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingMaxSumOfContiguingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindingMaxSumOfContiguingArray" />
+    <configuration name="AnagramsFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramsFinding" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KClass" />
+    <configuration name="BuySellStockOnly1TransAllowed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuySellStockOnly1TransAllowed" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobbingHouseProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RobbingHouseProblem" />
+    <configuration name="BuySellStockOnlyAnyNoOfTransAllowed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuySellStockOnlyAnyNoOfTransAllowed" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingPowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestingPowerOfTwo" />
+    <configuration name="FindFirstNonRepeatingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindFirstNonRepeatingLetter" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindingMaxSumOfContiguingArray" />
-        <item itemvalue="Application.KClass" />
-        <item itemvalue="Application.RobbingHouseProblem" />
-        <item itemvalue="Application.AddDigitsTillOne" />
-        <item itemvalue="Application.TestingPowerOfTwo" />
+        <item itemvalue="Application.AnagramsClarification" />
+        <item itemvalue="Application.AnagramsFinding" />
+        <item itemvalue="Application.BuySellStockOnly1TransAllowed" />
+        <item itemvalue="Application.BuySellStockOnlyAnyNoOfTransAllowed" />
+        <item itemvalue="Application.FindFirstNonRepeatingLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -101,50 +109,86 @@
       <workItem from="1585847837648" duration="1052000" />
       <workItem from="1585848911394" duration="8044000" />
       <workItem from="1585929120260" duration="1031000" />
-      <workItem from="1585938934372" duration="5154000" />
+      <workItem from="1585938934372" duration="11462000" />
+      <workItem from="1585968191857" duration="101000" />
+      <workItem from="1586056738039" duration="1859000" />
+      <workItem from="1586131193116" duration="8357000" />
+      <workItem from="1586213208787" duration="8300000" />
     </task>
+    <task id="LOCAL-00001" summary="this is for notes on git">
+      <created>1585949764984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585949764984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is for notes on git" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is for notes on git" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="969" height="359" key="GridCell.Tab.0.bottom" timestamp="1585943975225">
+    <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585945683459">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
-    <state width="969" height="359" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585943975225" />
-    <state width="969" height="359" key="GridCell.Tab.0.center" timestamp="1585943975224">
+    <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585945683459" />
+    <state x="-1812" y="-203" key="CommitChangelistDialog2" timestamp="1585949764776">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
-    <state width="969" height="359" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585943975224" />
-    <state width="969" height="359" key="GridCell.Tab.0.left" timestamp="1585943975223">
+    <state x="-1812" y="-203" key="CommitChangelistDialog2/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585949764776" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom" timestamp="1586230384829">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401063" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586230384829" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center" timestamp="1586230384827">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401062" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586230384827" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left" timestamp="1586230384827">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401062" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586230384827" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right" timestamp="1586230384828">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401063" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586230384828" />
+    <state width="1398" height="340" key="GridCell.Tab.1.bottom" timestamp="1586218045124">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
-    <state width="969" height="359" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585943975223" />
-    <state width="969" height="359" key="GridCell.Tab.0.right" timestamp="1585943975224">
+    <state width="1398" height="340" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045124" />
+    <state width="1398" height="340" key="GridCell.Tab.1.center" timestamp="1586218045123">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
-    <state width="969" height="359" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585943975224" />
-    <state width="1396" height="278" key="GridCell.Tab.1.bottom" timestamp="1585938887646">
+    <state width="1398" height="340" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045123" />
+    <state width="1398" height="340" key="GridCell.Tab.1.left" timestamp="1586218045122">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
-    <state width="1396" height="278" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585938887646" />
-    <state width="1396" height="278" key="GridCell.Tab.1.center" timestamp="1585938887645">
+    <state width="1398" height="340" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045122" />
+    <state width="1398" height="340" key="GridCell.Tab.1.right" timestamp="1586218045123">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
-    <state width="1396" height="278" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585938887645" />
-    <state width="1396" height="278" key="GridCell.Tab.1.left" timestamp="1585938887644">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
+    <state width="1398" height="340" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045123" />
+    <state x="377" y="190" key="RollbackChangesDialog" timestamp="1586228780955">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="278" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585938887644" />
-    <state width="1396" height="278" key="GridCell.Tab.1.right" timestamp="1585938887645">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
-    </state>
-    <state width="1396" height="278" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585938887645" />
+    <state x="377" y="190" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1586228780955" />
     <state x="-1441" y="-45" key="extract.method.dialog" timestamp="1585849883692">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
     <state x="-1441" y="-45" key="extract.method.dialog/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585849883692" />
+    <state x="97" y="84" key="new project wizard" timestamp="1585968289891">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="97" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1585968289891" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
