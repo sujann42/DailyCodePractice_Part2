@@ -137,10 +137,11 @@
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
     <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585945683459" />
-    <state x="-1812" y="-203" key="CommitChangelistDialog2" timestamp="1585949764776">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
+    <state x="81" y="103" key="CommitChangelistDialog2" timestamp="1586232003490">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="-1812" y="-203" key="CommitChangelistDialog2/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585949764776" />
+    <state x="81" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586232003490" />
     <state width="1398" height="168" key="GridCell.Tab.0.bottom" timestamp="1586230384829">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -181,6 +182,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="377" y="190" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1586228780955" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586232006041">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586232006041" />
     <state x="-1441" y="-45" key="extract.method.dialog" timestamp="1585849883692">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
