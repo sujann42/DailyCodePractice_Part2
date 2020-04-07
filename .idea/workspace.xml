@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f7575be-0c66-4c00-a2bd-ac30c1ac8ece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCodePracticePart2/TestInherit.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="com.sample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnagramsClarification">
+  <component name="RunManager" selected="Application.CountIntThatDoesNotHave1Greater">
     <configuration name="AnagramsClarification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnagramsClarification" />
       <module name="DailyCodePracticePart2" />
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstNonRepeatingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindFirstNonRepeatingLetter" />
+    <configuration name="CountIntThatDoesNotHave1Greater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountIntThatDoesNotHave1Greater" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountIntThatDoesNotHave1Greater" />
         <item itemvalue="Application.AnagramsClarification" />
         <item itemvalue="Application.AnagramsFinding" />
         <item itemvalue="Application.BuySellStockOnly1TransAllowed" />
         <item itemvalue="Application.BuySellStockOnlyAnyNoOfTransAllowed" />
-        <item itemvalue="Application.FindFirstNonRepeatingLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +112,8 @@
       <workItem from="1585968191857" duration="101000" />
       <workItem from="1586056738039" duration="1859000" />
       <workItem from="1586131193116" duration="8357000" />
-      <workItem from="1586213208787" duration="8300000" />
+      <workItem from="1586213208787" duration="8939000" />
+      <workItem from="1586287973883" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="this is for notes on git">
       <created>1585949764984</created>
@@ -122,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585949764984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more problems solved!!!">
+      <created>1586232003808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586232003808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="more problems solved!!">
+      <created>1586232041504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586232041504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,62 +144,68 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is for notes on git" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is for notes on git" />
+    <MESSAGE value="more problems solved!!!" />
+    <MESSAGE value="more problems solved!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="more problems solved!!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585945683459">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
     <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585945683459" />
-    <state x="81" y="103" key="CommitChangelistDialog2" timestamp="1586232003490">
+    <state x="81" y="103" key="CommitChangelistDialog2" timestamp="1586232041348">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="-1812" y="-203" key="CommitChangelistDialog2/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585949764776" />
-    <state x="81" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586232003490" />
-    <state width="1398" height="168" key="GridCell.Tab.0.bottom" timestamp="1586230384829">
+    <state x="81" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586232041348" />
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom" timestamp="1586236404565">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401063" />
-    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586230384829" />
-    <state width="1398" height="168" key="GridCell.Tab.0.center" timestamp="1586230384827">
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
+    <state width="1398" height="340" key="GridCell.Tab.0.center" timestamp="1586236404564">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401062" />
-    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586230384827" />
-    <state width="1398" height="168" key="GridCell.Tab.0.left" timestamp="1586230384827">
+    <state width="1398" height="340" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586236404564" />
+    <state width="1398" height="340" key="GridCell.Tab.0.left" timestamp="1586236404564">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401062" />
-    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586230384827" />
-    <state width="1398" height="168" key="GridCell.Tab.0.right" timestamp="1586230384828">
+    <state width="1398" height="340" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586236404564" />
+    <state width="1398" height="340" key="GridCell.Tab.0.right" timestamp="1586236404565">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401063" />
-    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586230384828" />
-    <state width="1398" height="340" key="GridCell.Tab.1.bottom" timestamp="1586218045124">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
+    <state width="1398" height="340" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
+    <state width="1398" height="340" key="GridCell.Tab.1.bottom" timestamp="1586236404566">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="340" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045124" />
-    <state width="1398" height="340" key="GridCell.Tab.1.center" timestamp="1586218045123">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
+    <state width="1398" height="340" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586236404566" />
+    <state width="1398" height="340" key="GridCell.Tab.1.center" timestamp="1586236404565">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="340" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045123" />
-    <state width="1398" height="340" key="GridCell.Tab.1.left" timestamp="1586218045122">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
+    <state width="1398" height="340" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
+    <state width="1398" height="340" key="GridCell.Tab.1.left" timestamp="1586236404565">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="340" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045122" />
-    <state width="1398" height="340" key="GridCell.Tab.1.right" timestamp="1586218045123">
-      <screen x="-1920" y="-328" width="1920" height="1057" />
+    <state width="1398" height="340" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
+    <state width="1398" height="340" key="GridCell.Tab.1.right" timestamp="1586236404565">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="340" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045123" />
+    <state width="1398" height="340" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
     <state x="377" y="190" key="RollbackChangesDialog" timestamp="1586228780955">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="377" y="190" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1586228780955" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586232006041">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586232049173">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586232006041" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586232049173" />
     <state x="-1441" y="-45" key="extract.method.dialog" timestamp="1585849883692">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
