@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f7575be-0c66-4c00-a2bd-ac30c1ac8ece" name="Default Changelist" comment="">
+    <list default="true" id="9f7575be-0c66-4c00-a2bd-ac30c1ac8ece" name="Default Changelist" comment="Finding elements that do not have its +1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCodePracticePart2/AnagramsClarification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCodePracticePart2/AnagramsClarification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCodePracticePart2/com/sample/SampleClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCodePracticePart2/com/sample/SampleClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sample/SampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sample/SampleClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,41 +47,41 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
       <recent name="com.sample" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountIntThatDoesNotHave1Greater">
-    <configuration name="AnagramsClarification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnagramsClarification" />
+  <component name="RunManager" selected="Application.FindDifferenceInStrings">
+    <configuration name="ContiguousArrayMaxLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContiguousArrayMaxLen" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnagramsFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnagramsFinding" />
+    <configuration name="FindDifferenceInStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDifferenceInStrings" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuySellStockOnly1TransAllowed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuySellStockOnly1TransAllowed" />
+    <configuration name="LastStoneWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastStoneWeight" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuySellStockOnlyAnyNoOfTransAllowed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuySellStockOnlyAnyNoOfTransAllowed" />
+    <configuration name="ReverseArrayOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArrayOfString" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountIntThatDoesNotHave1Greater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountIntThatDoesNotHave1Greater" />
+    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UglyNumber" />
       <module name="DailyCodePracticePart2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountIntThatDoesNotHave1Greater" />
-        <item itemvalue="Application.AnagramsClarification" />
-        <item itemvalue="Application.AnagramsFinding" />
-        <item itemvalue="Application.BuySellStockOnly1TransAllowed" />
-        <item itemvalue="Application.BuySellStockOnlyAnyNoOfTransAllowed" />
+        <item itemvalue="Application.FindDifferenceInStrings" />
+        <item itemvalue="Application.ReverseArrayOfString" />
+        <item itemvalue="Application.UglyNumber" />
+        <item itemvalue="Application.ContiguousArrayMaxLen" />
+        <item itemvalue="Application.LastStoneWeight" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +116,17 @@
       <workItem from="1586056738039" duration="1859000" />
       <workItem from="1586131193116" duration="8357000" />
       <workItem from="1586213208787" duration="8939000" />
-      <workItem from="1586287973883" duration="77000" />
+      <workItem from="1586287973883" duration="447000" />
+      <workItem from="1586314099295" duration="5963000" />
+      <workItem from="1586376464764" duration="4065000" />
+      <workItem from="1586456515853" duration="7574000" />
+      <workItem from="1586470313849" duration="4868000" />
+      <workItem from="1586491912378" duration="5087000" />
+      <workItem from="1586525057002" duration="2699000" />
+      <workItem from="1586748710504" duration="3169000" />
+      <workItem from="1586785224377" duration="5127000" />
+      <workItem from="1587089905387" duration="585000" />
+      <workItem from="1587140655707" duration="12432000" />
     </task>
     <task id="LOCAL-00001" summary="this is for notes on git">
       <created>1585949764984</created>
@@ -136,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586232041504</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finding elements that do not have its +1">
+      <created>1586288139732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586288139732</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new programs">
+      <created>1587163803767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587163803767</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,66 +173,73 @@
     <MESSAGE value="this is for notes on git" />
     <MESSAGE value="more problems solved!!!" />
     <MESSAGE value="more problems solved!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="more problems solved!!" />
+    <MESSAGE value="Finding elements that do not have its +1" />
+    <MESSAGE value="new programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="new programs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585945683459">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
     <state x="-1662" y="3" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585945683459" />
-    <state x="81" y="103" key="CommitChangelistDialog2" timestamp="1586232041348">
+    <state x="-1172" y="92" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586470614335">
+      <screen x="-1920" y="-328" width="1920" height="1057" />
+    </state>
+    <state x="-1172" y="92" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586470614335" />
+    <state x="81" y="103" key="CommitChangelistDialog2" timestamp="1587163803161">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="-1812" y="-203" key="CommitChangelistDialog2/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1585949764776" />
-    <state x="81" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586232041348" />
-    <state width="1398" height="340" key="GridCell.Tab.0.bottom" timestamp="1586236404565">
+    <state x="-1812" y="-203" key="CommitChangelistDialog2/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586288139124" />
+    <state x="81" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587163803161" />
+    <state width="922" height="198" key="GridCell.Tab.0.bottom" timestamp="1587165094898">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401063" />
-    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
-    <state width="1398" height="340" key="GridCell.Tab.0.center" timestamp="1586236404564">
+    <state width="1834" height="422" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779327" />
+    <state width="922" height="198" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587165094898" />
+    <state width="922" height="198" key="GridCell.Tab.0.center" timestamp="1587165094898">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401062" />
-    <state width="1398" height="340" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586236404564" />
-    <state width="1398" height="340" key="GridCell.Tab.0.left" timestamp="1586236404564">
+    <state width="1834" height="422" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779327" />
+    <state width="922" height="198" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587165094898" />
+    <state width="922" height="198" key="GridCell.Tab.0.left" timestamp="1587165094897">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401062" />
-    <state width="1398" height="340" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586236404564" />
-    <state width="1398" height="340" key="GridCell.Tab.0.right" timestamp="1586236404565">
+    <state width="1834" height="422" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779326" />
+    <state width="922" height="198" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587165094897" />
+    <state width="922" height="198" key="GridCell.Tab.0.right" timestamp="1587165094898">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218401063" />
-    <state width="1398" height="340" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
-    <state width="1398" height="340" key="GridCell.Tab.1.bottom" timestamp="1586236404566">
+    <state width="1834" height="422" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779327" />
+    <state width="922" height="198" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587165094898" />
+    <state width="922" height="198" key="GridCell.Tab.1.bottom" timestamp="1587165094899">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="340" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045124" />
-    <state width="1398" height="340" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586236404566" />
-    <state width="1398" height="340" key="GridCell.Tab.1.center" timestamp="1586236404565">
+    <state width="1834" height="422" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779329" />
+    <state width="922" height="198" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587165094899" />
+    <state width="922" height="198" key="GridCell.Tab.1.center" timestamp="1587165094899">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="340" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045123" />
-    <state width="1398" height="340" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
-    <state width="1398" height="340" key="GridCell.Tab.1.left" timestamp="1586236404565">
+    <state width="1834" height="422" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779328" />
+    <state width="922" height="198" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1587165094899" />
+    <state width="922" height="198" key="GridCell.Tab.1.left" timestamp="1587165094899">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="340" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045122" />
-    <state width="1398" height="340" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
-    <state width="1398" height="340" key="GridCell.Tab.1.right" timestamp="1586236404565">
+    <state width="1834" height="422" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779328" />
+    <state width="922" height="198" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1587165094899" />
+    <state width="922" height="198" key="GridCell.Tab.1.right" timestamp="1587165094899">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="340" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586218045123" />
-    <state width="1398" height="340" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586236404565" />
+    <state width="1834" height="422" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586792779328" />
+    <state width="922" height="198" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587165094899" />
     <state x="377" y="190" key="RollbackChangesDialog" timestamp="1586228780955">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="377" y="190" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1586228780955" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586232049173">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1587163811137">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586232049173" />
+    <state x="-1493" y="-127" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-328.1920.1057@-1920.-328.1920.1057" timestamp="1586288182211" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1587163811137" />
     <state x="-1441" y="-45" key="extract.method.dialog" timestamp="1585849883692">
       <screen x="-1920" y="-328" width="1920" height="1057" />
     </state>
@@ -227,6 +261,96 @@
           <url>file://$PROJECT_DIR$/src/TestingPowerOfTwo.java</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindNonRepeating.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindNonRepeating.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindNonRepeating.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/XOR.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/XOR.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/XOR.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/linkedlist/MiddleElement.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/linkedlist/MiddleElement.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousArrayMaxLen.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousArrayMaxLen.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousArrayMaxLen.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousArrayMaxLen.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousArrayMaxLen.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousArrayMaxLen.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UglyNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UglyNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UglyNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UglyNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
