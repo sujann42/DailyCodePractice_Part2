@@ -1,5 +1,7 @@
 package com.sample;
 
+import java.util.Stack;
+
 public class SampleClass {
 
     public static void main(String[] args) {
@@ -24,4 +26,48 @@ public class SampleClass {
         System.out.println();
     }
 
+    public static class BackSpaceSpring {
+        public static void main(String[] args) {
+            System.out.println(backspaceCompare("ab#c", "ad#c"));
+            System.out.println(backspaceCompare("ab##", "cd##"));
+            System.out.println(backspaceCompare("a##c", "#a#c"));
+            System.out.println(backspaceCompare("a#c", "b"));
+
+
+        }
+
+        public static boolean backspaceCompare(String S, String T) {
+            Stack<Character> stack1 = new Stack<>();
+            for (int i = S.length() - 1; i == 0; i--) {
+                if (S.charAt(i) != '#') {
+                    stack1.push(S.charAt(i));
+                } else if (!stack1.isEmpty()) {
+                    stack1.pop();
+                }
+            }
+            String result1 = "";
+            while (!stack1.isEmpty()) {
+                result1 += stack1.pop();
+            }
+
+            Stack<Character> stack2 = new Stack<>();
+            for (int i = S.length() - 1; i == 0; i--) {
+                if (T.charAt(i) != '#') {
+                    stack2.push(S.charAt(i));
+                } else if (!stack2.isEmpty()) {
+                    stack2.pop();
+                }
+            }
+            String result2 = "";
+            while (!stack2.isEmpty()) {
+                result2 += stack2.pop();
+            }
+            System.out.printf("String 1 : %-6s       String 2 is: %-6s ", result1, result2);
+            System.out.println();
+            if (result1.equals(result2)) {
+                return true;
+            }
+            return false;
+        }
+    }
 }
